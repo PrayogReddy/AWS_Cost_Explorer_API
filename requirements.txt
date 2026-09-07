@@ -1,0 +1,5 @@
+boto3
+reportlab
+
+# aws configure: to set up AWS credentials and default region. 
+# We can get this from files called ~/.aws/credentials and ~/.aws/config.
